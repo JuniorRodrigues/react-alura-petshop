@@ -9,6 +9,10 @@
     font-weight: var(--fonte-peso-categorias);
     background-color: var(--cor-contraste-claro);
     border-radius: 3rem;
+}
+
+.lista-categorias__categoria a {
+    display: block;
     padding: 1rem;
 }
 
