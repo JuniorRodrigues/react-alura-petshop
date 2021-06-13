@@ -3,7 +3,6 @@ import '../assets/css/404.css';
 
 import imagem from '../assets/img/doguito404.svg';
 
-
 const Pagina404 = () => {
     return(
         <main className="container flex flex--centro flex--coluna">
